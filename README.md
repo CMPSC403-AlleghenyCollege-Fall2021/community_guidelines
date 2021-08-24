@@ -4,6 +4,7 @@
 
 ### Interactions in class
 
+- Show respect for others as classmates, teammates, and professors/technical leads
 - Participate regularly in class sessions
 - Keep interruptions to a minimum
 - If you are confused or unable to keep up with the course content, ask a question during that same class session
@@ -12,6 +13,7 @@
 ### Interactions during the lab
 
 - Remain in the building during lab session although you are welcome to go work in other areas of Alden
+- Display academic honesty in your collaboration with others
 
 ### Interactions on Discord
 
