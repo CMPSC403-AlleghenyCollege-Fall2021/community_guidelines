@@ -4,11 +4,14 @@
 
 ### Interactions in class
 
-TODO
+- Participate regularly in class sessions
+- Keep interruptions to a minimum
+- If you are confused or unable to keep up with the course content, ask a question during that same class session
+- Remain logged on to Discord during class
 
 ### Interactions during the lab
 
-TODO
+- Remain in the building during lab session although you are welcome to go work in other areas of Alden
 
 ### Interactions on Discord
 
