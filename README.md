@@ -13,7 +13,7 @@ TODO
 ### Interactions on Discord
 
 - Be respectful.
-- Send messages into the correct server.
+- Send messages into the correct channel.
 - Only use appropriate language.
 - Do not share the server link with others outside of the organizations.
 
