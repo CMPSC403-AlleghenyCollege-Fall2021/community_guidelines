@@ -5,6 +5,7 @@
 ### Interactions in class and lab
 
 - Show respect for others as classmates, teammates, and professors/technical leads
+- Allow peers to voice their opinions and consider all opinions
 - Participate regularly in class sessions
 - Keep interruptions to a minimum
 - If you are confused or unable to keep up with the course content, ask a question during that same class session
