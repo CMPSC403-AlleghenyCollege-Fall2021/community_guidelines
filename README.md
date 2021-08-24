@@ -12,7 +12,10 @@ TODO
 
 ### Interactions on Discord
 
-TODO
+- Be respectful.
+- Send messages into the correct channel.
+- Only use appropriate language.
+- Do not share the server link with others outside of the organizations.
 
 ### Interactions on GitHub
 
