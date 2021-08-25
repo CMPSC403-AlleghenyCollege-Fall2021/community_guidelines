@@ -40,6 +40,8 @@ TODO
 
 - Always add Dr. Jumadinova and/or a TL to the PR
 
+- A minimum of 2 reviewers must approve the PR before merging to the `main` or `master` branch
+
 **Commit Messages**
 
 - Use format: `Action verb: description`
