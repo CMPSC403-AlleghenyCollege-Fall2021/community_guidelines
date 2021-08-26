@@ -17,7 +17,7 @@
 ### Interactions on Discord
 
 - Be respectful.
-- Send messages into the correct channel.
+- Send messages into the correct channel or thread.
 - Only use appropriate language.
 - Do not share the server link with others outside of the organizations.
 
